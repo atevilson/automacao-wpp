@@ -80,7 +80,7 @@ pip install pyautogui
 
 ---
 
-[Confira o código no notebook do Jupyter]()
+[Confira o código no notebook do Jupyter](https://github.com/atevilson/automacao-wpp/blob/main/automacao_wpp.ipynb)
 
 
 ### Autor
